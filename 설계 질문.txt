@@ -1,0 +1,6 @@
+i2c1 pb3 :sda, pb10 :scl
+i2c3 pc9 :sda, pa8 :scl x
+
+hse : 12.8mhz
+
+i2c2 :fpga ?
